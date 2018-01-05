@@ -10,4 +10,4 @@ str1 is 'katas' and str2 is 'steak' should return false.
 Only lower case letters will be used (a-z). No punctuation or digits will be included.
 
 ## Conclustion
-Solved with nested for loop. Could map out the string into objects to make it more effecient. 
+Solved with nested for loop. (Answer in Scramble.js) Could map out the string into objects to make it more effecient. 
